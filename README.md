@@ -7,7 +7,7 @@
   * ∇ Machine Learning
   * ☁︎ Web Stuff
   * ⌘ Stupid Utilities
-  * ☭ ⃠ Anti-Commie
+  * ☭⃠ Anti-Commie
   * ⚠︎ Linting Warnings
   * ☠ Exceptions
   * ⌧ 404
