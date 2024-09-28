@@ -4,10 +4,10 @@
 
 ### Things you will find here:
 
-  * ♕ Machine Learning
+  * ∇ Machine Learning
   * ☁︎ Web Stuff
   * ⌘ Stupid Utilities
-  * ☓☭ Anti-Commie
+  * ☭ ⃠ Anti-Commie
   * ⚠︎ Linting Warnings
-  * ⍯ Exceptions
+  * ☠ Exceptions
   * ⌧ 404
